@@ -1,0 +1,318 @@
+{
+   "Form" : {
+      "controls" : [
+         {
+            "Temp" : {
+               "controls" : [
+                  {
+                     "Button" : {
+                        "controls" : [
+                           {
+                              "button@common.button" : {
+                                 "$is_new_nine_slice" : false,
+                                 "$label_layer" : 3,
+                                 "$label_offset" : [ 0, 0 ],
+                                 "$nine_slice_buttom" : 0,
+                                 "$nine_slice_left" : 0,
+                                 "$nine_slice_right" : 0,
+                                 "$nine_slice_top" : 0,
+                                 "$nineslice_size" : [ 0.0, 0.0, 0.0, 0.0 ],
+                                 "$texture_layer" : 2,
+                                 "bindings" : [
+                                    {
+                                       "binding_collection_name" : "",
+                                       "binding_condition" : "always_when_visible",
+                                       "binding_type" : "collection_details"
+                                    }
+                                 ],
+                                 "button_mappings" : [],
+                                 "controls" : [
+                                    {
+                                       "default@netease_editor_template_namespace.default" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/default"
+                                       }
+                                    },
+                                    {
+                                       "hover@netease_editor_template_namespace.hover" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/hover"
+                                       }
+                                    },
+                                    {
+                                       "pressed@netease_editor_template_namespace.pressed" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/pressed"
+                                       }
+                                    },
+                                    {
+                                       "text@netease_editor_template_namespace.button_label" : {
+                                          "alpha" : 1.0,
+                                          "color" : [ 1, 1, 1 ],
+                                          "font_scale_factor" : 1.0,
+                                          "font_size" : "normal",
+                                          "text" : ""
+                                       }
+                                    }
+                                 ],
+                                 "default_control" : "default",
+                                 "hover_control" : "hover",
+                                 "is_handle_button_move_event" : true,
+                                 "pressed_control" : "pressed",
+                                 "size" : [ "100.0%+0.0px", 32.0 ],
+                                 "type" : "button"
+                              }
+                           }
+                        ],
+                        "layer" : 1,
+                        "size" : [ "100.0%+0.0px", 38.0 ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "ButtonWithImage" : {
+                        "controls" : [
+                           {
+                              "image" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "controls" : [],
+                                 "layer" : 1,
+                                 "offset" : [ "-50.0%+16.5px", 0.0 ],
+                                 "size" : [ 32.0, 32.0 ],
+                                 "texture" : "textures/misc/missing_texture",
+                                 "type" : "image"
+                              }
+                           },
+                           {
+                              "button@common.button" : {
+                                 "$is_new_nine_slice" : false,
+                                 "$label_layer" : 3,
+                                 "$label_offset" : [ 0, 0 ],
+                                 "$nine_slice_buttom" : 0,
+                                 "$nine_slice_left" : 0,
+                                 "$nine_slice_right" : 0,
+                                 "$nine_slice_top" : 0,
+                                 "$nineslice_size" : [ 0.0, 0.0, 0.0, 0.0 ],
+                                 "$texture_layer" : 2,
+                                 "bindings" : [
+                                    {
+                                       "binding_collection_name" : "",
+                                       "binding_condition" : "always_when_visible",
+                                       "binding_type" : "collection_details"
+                                    }
+                                 ],
+                                 "button_mappings" : [],
+                                 "controls" : [
+                                    {
+                                       "default@netease_editor_template_namespace.default" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/default"
+                                       }
+                                    },
+                                    {
+                                       "hover@netease_editor_template_namespace.hover" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/hover"
+                                       }
+                                    },
+                                    {
+                                       "pressed@netease_editor_template_namespace.pressed" : {
+                                          "alpha" : 1.0,
+                                          "is_new_nine_slice" : false,
+                                          "keep_ratio" : false,
+                                          "nine_slice_buttom" : 0,
+                                          "nine_slice_left" : 0,
+                                          "nine_slice_right" : 0,
+                                          "nine_slice_top" : 0,
+                                          "nineslice_size" : [ 1.0, 1.0, 1.0, 1.0 ],
+                                          "texture" : "textures/ui/TamilStudio/ServerForm/Button/pressed"
+                                       }
+                                    },
+                                    {
+                                       "text@netease_editor_template_namespace.button_label" : {
+                                          "alpha" : 1.0,
+                                          "color" : [ 1, 1, 1 ],
+                                          "font_scale_factor" : 1.0,
+                                          "font_size" : "normal",
+                                          "text" : ""
+                                       }
+                                    }
+                                 ],
+                                 "default_control" : "default",
+                                 "hover_control" : "hover",
+                                 "is_handle_button_move_event" : true,
+                                 "layer" : 2,
+                                 "offset" : [ 16.50, 0.0 ],
+                                 "pressed_control" : "pressed",
+                                 "size" : [ "100.0%+-35.0px", 32.0 ],
+                                 "type" : "button"
+                              }
+                           }
+                        ],
+                        "layer" : 12,
+                        "size" : [ "100.0%+0.0px", 38.0 ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "Text" : {
+                        "controls" : [
+                           {
+                              "left" : {
+                                 "anchor_from" : "top_middle",
+                                 "anchor_to" : "top_middle",
+                                 "font_type" : "default",
+                                 "layer" : 1,
+                                 "offset" : [ 0.0, 3.0 ],
+                                 "size" : [ "100.0%+0.0px", "default" ],
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "middle" : {
+                                 "anchor_from" : "top_middle",
+                                 "anchor_to" : "top_middle",
+                                 "font_type" : "default",
+                                 "layer" : 2,
+                                 "offset" : [ 0.0, 3.0 ],
+                                 "size" : [ "100.0%+0.0px", "default" ],
+                                 "text_alignment" : "center",
+                                 "type" : "label"
+                              }
+                           },
+                           {
+                              "right" : {
+                                 "anchor_from" : "top_middle",
+                                 "anchor_to" : "top_middle",
+                                 "font_type" : "default",
+                                 "layer" : 3,
+                                 "offset" : [ 0.0, 3.0 ],
+                                 "size" : [ "100.0%+0.0px", "default" ],
+                                 "text_alignment" : "right",
+                                 "type" : "label"
+                              }
+                           }
+                        ],
+                        "layer" : 19,
+                        "size" : [ "100.0%+0.0px", "100.0%cm+6.0px" ],
+                        "type" : "panel"
+                     }
+                  },
+                  {
+                     "HorizontalRule" : {
+                        "controls" : [
+                           {
+                              "image" : {
+                                 "clip_direction" : "left",
+                                 "clip_ratio" : 0.0,
+                                 "color" : [ 1.0, 1.0, 1.0 ],
+                                 "keep_ratio" : false,
+                                 "layer" : 1,
+                                 "size" : [ "100.0%+0.0px", "0.0%+2.0px" ],
+                                 "texture" : "textures/ui/TamilStudio/ServerForm/horizontal_rule",
+                                 "type" : "image"
+                              }
+                           }
+                        ],
+                        "layer" : 28,
+                        "size" : [ "100.0%+0.0px", 16.0 ],
+                        "type" : "panel"
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "type" : "panel",
+               "visible" : false
+            }
+         },
+         {
+            "Background" : {
+               "controls" : [
+                  {
+                     "image" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "controls" : [],
+                        "keep_ratio" : false,
+                        "layer" : 1,
+                        "texture" : "textures/ui/TamilStudio/ServerForm/background",
+                        "type" : "image"
+                     }
+                  }
+               ],
+               "layer" : 33,
+               "type" : "panel"
+            }
+         },
+         {
+            "Contents" : {
+               "anchor_from" : "top_middle",
+               "anchor_to" : "top_middle",
+               "button_mappings" : [
+                  {
+                     "from_button_id" : "button.menu_select",
+                     "mapping_type" : "pressed",
+                     "to_button_id" : "#netease_to_button_id"
+                  }
+               ],
+               "controls" : [
+                  {
+                     "Stacks" : {
+                        "anchor_from" : "top_middle",
+                        "anchor_to" : "top_middle",
+                        "controls" : [],
+                        "layer" : 1,
+                        "size" : [ "80.0%+0.0px", "100.0%c+0.0px" ],
+                        "type" : "stack_panel"
+                     }
+                  }
+               ],
+               "draggable" : "vertical",
+               "layer" : 35,
+               "modal" : true,
+               "priority" : 1,
+               "size" : [ "100.0%+0.0px", "100.0%c+0.0px" ],
+               "type" : "input_panel"
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "ServerForm"
+}
